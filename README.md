@@ -4,6 +4,6 @@ href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="http
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arasadam&show_icons=true&locale=en&layout=compact&theme=react" alt="arasadam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arasadam&show_icons=true&locale=en&theme=react" alt="arasadam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keremalc&show_icons=true&locale=en&theme=react" alt="arasadam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arasadam&theme=react" alt="arasadam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keremalc&theme=react" alt="arasadam" /></p>
