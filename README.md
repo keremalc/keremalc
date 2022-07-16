@@ -1,5 +1,5 @@
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </p>
+<p align="left">  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keremalc&show_icons=true&locale=en&layout=compact&theme=react" alt="arasadam" /></p>
 
